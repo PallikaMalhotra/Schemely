@@ -1,30 +1,15 @@
-# Govt scheme predictor
+Govt Scheme Predictor
+🚀 Overview
+This is a web application designed to help users discover relevant government schemes based on filters like age, gender, area, education, and state. It stays in sync with changes made through the v0.dev interface.
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/pallikamalhotra-6243s-projects/v0-govt-scheme-predictor)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/ts5J5Y7BzEt)
-
-## Overview
-
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
-
-## Deployment
-
+🔗 Live Deployment
 Your project is live at:
+https://schemely-pallikamalhotra-6243s-projects.vercel.app/
 
-**[https://vercel.com/pallikamalhotra-6243s-projects/v0-govt-scheme-predictor](https://vercel.com/pallikamalhotra-6243s-projects/v0-govt-scheme-predictor)**
 
-## Build your app
+🧠 How It Works
+The project helps match users with relevant national and state-level government schemes.
 
-Continue building your app on:
+Filters include: age, gender, education, state, urban/rural, etc.
 
-**[https://v0.dev/chat/projects/ts5J5Y7BzEt](https://v0.dev/chat/projects/ts5J5Y7BzEt)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+It connects to a backend (if added) or uses form logic to suggest schemes.
